@@ -19,17 +19,17 @@ Application workflow
 ====================
 A RecyclerView displays the list of all the stored items. A click on the Floating Action Button opens up the Create screen. A click on any of the list entry opens up the item detail view, allowing for individual item update and deletion.
 
-.. image:: screenshots/01-Save.PNG
+.. image:: app/screenshots/01-Save.PNG
 
-.. image:: screenshots/02-List.PNG
+.. image:: app/screenshots/02-List.PNG
 
-.. image:: screenshots/03-Edit.PNG
+.. image:: app/screenshots/03-Edit.PNG
 
-.. image:: screenshots/04-Update.PNG
+.. image:: app/screenshots/04-Update.PNG
 
-.. image:: screenshots/05-List-Updated.PNG
+.. image:: app/screenshots/05-List-Updated.PNG
 
-.. image:: screenshots/06-Delete.PNG
+.. image:: app/screenshots/06-Delete.PNG
 
 ##################
 Technical overview
