@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Room CRUD</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="empty_not_saved">Empty values cannot be saved</string>
+</resources>
